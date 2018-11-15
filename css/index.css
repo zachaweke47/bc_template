@@ -1,0 +1,16 @@
+/* selecting a component with an ID or a #*/
+#image-map {
+/*	width: 400px;*/
+	border: 1px solid red;
+}
+
+
+#image-map:hover {
+/*	width: 400px;*/
+	border: 10px solid blue;
+}
+
+
+.area-map:hover {
+	cursor: crosshair;	
+}
